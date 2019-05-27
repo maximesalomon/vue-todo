@@ -20,7 +20,7 @@ export default {
 
 <style scoped>
 .todos {
-    width: 200px;
+    width: 560px;
     margin: 24px auto ;
 }
 </style>

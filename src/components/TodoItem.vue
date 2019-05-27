@@ -27,7 +27,7 @@ export default {
         border: 1px solid gray;
         padding: 10px;
         margin-top: 16px;
-        width: 200px;
+        width: 560px;
     }
 
     .completed {
